@@ -8,3 +8,8 @@ remote synchronization, and branch collaboration.
 - Track changes using commits
 - Work with branches
 - Synchronize with a remote repository
+
+## Collaboration
+
+The documentation branch demonstrates independent development
+and publishing changes to a remote repository.
